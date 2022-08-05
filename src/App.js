@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App" id="App">
       <Info />
-      <Info />
       <About />
       <Footer />
     </div>
